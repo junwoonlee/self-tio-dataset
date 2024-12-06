@@ -22,4 +22,5 @@
   * Acknowledged: This work was supported under the university-corporate collaboration agreement between Kubota Corporation and the University of Tokyo.
   * Contact: [Junwoon Lee](mailto:leejunwoon@robot.t.u-tokyo.ac.jp?subject=[GitHub]%20Source%20Han%20Sans)
   
-
+## About Code and Network Availability 
+  * We currently don’t have any plans to make our network and code available to the public. 
